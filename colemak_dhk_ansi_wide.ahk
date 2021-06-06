@@ -54,6 +54,7 @@ CapsLock::backspace
 
 ; set left alt as shift
 LAlt::Shift
+RAlt::LAlt
 
 ; set CapsLock to Backspace key
 backspace::CapsLock
